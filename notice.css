@@ -1,0 +1,21 @@
+section.noticeboard {
+    box-shadow: 0 0 5px #ccc;
+    float: left;
+    height: 270px;
+    margin-right: 0;
+    overflow: hidden;
+    padding: 5px;
+    margin-left: 4px;
+    background: linear-gradient(#b2bec3, #ededed);
+    width:49%;
+
+}
+.clear{
+    clear: both;
+}
+section {
+    display: block;
+}
+body{
+    background-color: skyblue;
+}

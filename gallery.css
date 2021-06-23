@@ -1,0 +1,23 @@
+body{
+    background-image: url("as12.jfif");
+
+  
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1{
+	color: lightgreen;
+	padding: 10px;
+	text-align: center;
+}
+.im img{
+	margin-top: 15px;
+	margin-bottom: 15px;
+	margin-right: 20px;
+	margin-left: 29px;
+	
+}
+

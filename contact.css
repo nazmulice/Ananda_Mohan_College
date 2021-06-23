@@ -1,0 +1,54 @@
+.con{
+	text-align: center;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+.con h1{
+	color: blue;
+}
+.amader-form{
+	width: 1300px;
+	margin: 10px;
+	padding: 10px;
+	border-radius: 5px;
+	border:1px solid blue;
+}
+.amader-form input{
+	display: block;
+	width: 92%;
+	font-size: 18px;
+	padding: 4px;
+	border:1px solid gray;
+	background: transparent;
+	color:blue;
+	border-radius: 5px;
+}
+.amader-form label{
+	color: #fff;
+	cursor: pointer;
+	padding: 2px 0;
+	display: block;
+	font-size: 20px;
+	font-family: tahoma;
+}
+.amader-form input[type=submit]{
+	width: 150px;
+	padding: 10px;
+	margin-top: 10px;
+	cursor: pointer;
+	background-color:#2196F3;
+}
+.amader-form p{
+	color: white;
+}
+.amader-form p a{
+color: #FF00FF;
+}
+.amader-form textarea{
+	width: 1150px;
+	height: 120px;
+}
+h1{
+	color: blue;
+	margin-left: 10px;
+}
